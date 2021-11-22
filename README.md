@@ -1,4 +1,7 @@
-### Hi there 👋
+### hello :)
+- 🔭 I’m currently working on my first read.me file!
+- 🌱 I’m currently learning creative computing
+- 😄 Pronouns: she/her
 
 <!--
 **punnapim/punnapim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
